@@ -1,0 +1,22 @@
+const imageUrls = [
+    { imagen: "https://i.ytimg.com/vi/6g2vk8Gudqs/maxresdefault.jpg" },
+    { imagen: "https://www.nintendo.com/eu/media/images/10_share_images/games_15/super_nintendo_5/H2x1_SNES_TheLegendOfZeldaALinkToThePast_image1600w.jpg" },
+    { imagen: "https://www.nintendo.com/eu/media/images/10_share_images/games_15/nintendo_7/SI_N64_LegendOfZeldaOcarinaOfTime_image1600w.jpg" },
+    { imagen: "https://www.nintendo.com/eu/media/images/10_share_images/games_15/virtual_console_nintendo_3ds_7/SI_3DSVC_TheLegendOfZeldaOracleOfAges_image1600w.jpg" },
+    { imagen: "https://www.nintendo.com/eu/media/images/10_share_images/games_15/virtual_console_nintendo_3ds_7/SI_3DSVC_TheLegendOfZeldaLinksAwakeningDX_image1600w.jpg" },
+    { imagen: "https://fotografias-neox.atresmedia.com/clipping/cmsimages01/2020/05/12/ADE4B61B-8E79-4520-811D-4F0532562D85/69.jpg?crop=1422,800,x0,y0&width=1280&height=720&optimize=low" },
+    { imagen: "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_400/ncom/en_US/products/hardware/game-watch-the-legend-of-zelda/115160-game-and-watch-zelda-ss-aol-1200x675" },
+    { imagen: "https://www.nintendo.com/eu/media/images/10_share_images/games_15/gamecube_12/SI_GCN_TheLegendOfZeldaTheWindWaker_image1600w.jpg" },
+    { imagen: "https://www.nintendo.com/eu/media/images/10_share_images/games_15/wiiu_14/SI_WiiU_TheLegendOfZeldaTwilightPrincessHD_image1600w.jpg" },
+    { imagen: "https://www.nintendo.com/eu/media/images/10_share_images/games_15/virtual_console_nintendo_3ds_7/SI_3DSVC_TheLegendOfZeldaOracleOfSeasons_image1600w.jpg" },
+    { imagen: "https://m.media-amazon.com/images/I/81KnfQkSHjL.jpg" },
+    { imagen: "https://i.etsystatic.com/28082222/r/il/5864be/5622007566/il_1080xN.5622007566_dptn.jpg" },
+    { imagen: "https://www.nintendo.com/eu/media/images/10_share_images/games_15/nintendo_switch_4/H2x1_NSwitch_HyruleWarriorsDefinitiveEdition_image1600w.jpg" },
+    { imagen: "https://www.nintendo.com/eu/media/images/10_share_images/games_15/gamecube_12/SI_GCN_TheLegendOfZeldaFourSwordsAdventures_image1600w.jpg" },
+    { imagen: "https://www.nintendo.com/eu/media/images/10_share_images/games_15/nintendo_3ds_25/SI_3DS_TheLegendOfZeldaTriforceHeroes_image1600w.jpg" },
+    { imagen: "https://www.zelda.com/breath-of-the-wild/assets/icons/BOTW-Share_icon.jpg" },
+    { imagen: "https://www.nintendo.com/eu/media/images/10_share_images/games_15/nintendo_3ds_25/SI_3DS_TheLegendOfZeldaTriforceHeroes_image1600w.jpg" },
+    { imagen: "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/12/the-zelda-games-on-the-cd-i.jpg" },
+    { imagen: "https://assets-prd.ignimgs.com/2022/04/22/zelda4sae-1650647245224.jpg" },
+    { imagen: "https://www.nintendo.com/eu/media/images/10_share_images/games_15/game_boy_advance_7/SI_GBA_TheLegendOfZeldaTheMinishCap_image1600w.jpg" }
+];

@@ -1,0 +1,12 @@
+body {
+    width: 100%;
+    height: auto;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0rem;
+
+    font-size: 10px;
+
+    box-sizing: border-box;
+}
