@@ -4,7 +4,6 @@ document.addEventListener("DOMContentLoaded", () => {
 
 
 
-    // Función para obtener la información de los juegos desde la API
     const fetchGames = async () => {
         try {
             const response = await fetch('https://zelda.fanapis.com/api/games');
@@ -30,9 +29,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
     };
 
-    itemsbtn.addEventListener('click', () => {
-        window.location.href = '/items/items.html';
-    });
+  
 
     fetchGames();
 });

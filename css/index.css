@@ -71,3 +71,8 @@ h1 {
     border-color: #000000;
 }
 
+#ver_items a{
+    text-decoration: none;
+    outline: none;
+    color: #000000;
+}
